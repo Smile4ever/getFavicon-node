@@ -1,0 +1,26 @@
+{
+	"name": "getfaviconurl",
+	"description": "Node.js API to retrieve the favicon url of a website.",
+	"homepage": "https://github.com/Smile4ever/getFaviconUrl",
+	"keywords": [
+		"node",
+		"javascript"
+	],
+	"author": "Olivier de Broqueville / Geoffrey De Belie",
+	"contributors": [],
+	"dependencies": {
+		"cheerio": "cheeriojs/cheerio",
+		"express": "^4.16.3",
+		"request": "request/request"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Smile4ever/getFaviconUrl.git"
+	},
+	"main": "index.js",
+	"version": "1.0.0",
+	"license": "GPL-3.0",
+	"scripts": {
+		"start": "node index.js"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"name": "getFaviconUrl-node",
+	"alias": "getfaviconurl-node.now.sh",
+	"type": "npm",
+	"engines": {
+		"node": "8.11.1"
+	}
+}
