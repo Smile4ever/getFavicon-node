@@ -85,7 +85,7 @@ function getFaviconUrl(url, callback) {
 }
 
 var app = express();
-app.listen(80);
+app.listen(process.env.PORT || 80);
 
 console.log('API started on http://localhost:80/icon?url=');
 
