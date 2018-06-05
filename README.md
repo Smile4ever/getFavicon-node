@@ -10,7 +10,7 @@ getFaviconUrl-node uses 3 node.js modules: [request](https://github.com/request/
 
     node index.js
 
-Go go localhost/icon?url=google.be to see an example result.
+Go go http://localhost/icon?url=google.be to see an example result.
 
 In case of access denied, try to run with more priviledges (root or administrator account).
 
